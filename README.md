@@ -6,7 +6,8 @@ Bu yazılımdan doğacak herhangi bir zararın sorumlusu değilim.
 ```
 git clone https://github.com/turkiska/TurkiskaDorkScanner.git
 cd TurkiskaDorkScanner
+pip3 install -r gerekenler.txt
 sudo python main.py
-İyi eğlenceler!
 ```
+İyi eğlenceler!
 # GNU GPL'i seviyorum!
